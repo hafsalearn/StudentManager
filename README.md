@@ -1,2 +1,2 @@
 //titre
-Version principale : gestion des étudiants
+Version administrateur : gestion des comptes
